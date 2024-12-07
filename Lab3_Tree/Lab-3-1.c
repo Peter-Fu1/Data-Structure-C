@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef int datatype;
 typedef struct TreeNode *pointer;
 typedef struct TreeNode{
     int data;
